@@ -1,0 +1,26 @@
+Current working directory /mnt/scc2git/exp/raxml3/467/625/521/21
+raxmlHPC -f b -m PROTGAMMAWAG -c 4 -s iv.phylip -z RAxML_bootstrap.iv.phylip_tree2.raxml -t RAxML_bestTree.iv.phylip_raxml_tree1.singleTree -n iv.phylip_tree3.BS_TREE -p 1
+Found a total of 4 taxa in first tree of tree collection RAxML_bootstrap.iv.phylip_tree2.raxml
+Expecting all remaining trees in collection to have the same taxon set
+
+
+You are using RAxML version 7.2.2 released by Alexandros Stamatakis in August 2009
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_bootstrap.iv.phylip_tree2.raxml onto tree in file RAxML_bestTree.iv.phylip_raxml_tree1.singleTree
+
+
+RAxML was called as follows:
+
+/bin/raxmlHPC -f b -m PROTGAMMAWAG -c 4 -s iv.phylip -z RAxML_bootstrap.iv.phylip_tree2.raxml -t RAxML_bestTree.iv.phylip_raxml_tree1.singleTree -n iv.phylip_tree3.BS_TREE -p 1 
+
+
+
+
+Found 4 trees in File RAxML_bootstrap.iv.phylip_tree2.raxml
+
+
+
+Time for Computation of Bipartitions 3.574751
+Tree with bipartitions written to file:  /mnt/scc2git/exp/raxml3/467/625/521/21/RAxML_bipartitions.iv.phylip_tree3.BS_TREE
+Tree with bipartitions as branch labels written to file:  /mnt/scc2git/exp/raxml3/467/625/521/21/RAxML_bipartitionsBranchLabels.iv.phylip_tree3.BS_TREE
+Execution information file written to :  /mnt/scc2git/exp/raxml3/467/625/521/21/RAxML_info.iv.phylip_tree3.BS_TREE
