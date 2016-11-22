@@ -1,0 +1,2 @@
+MAFFT_VALID;MAFFT_FILE;FASTA_NUMBERED
+True;i.mafft;i.fastaNumbered
