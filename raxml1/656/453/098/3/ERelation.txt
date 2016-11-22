@@ -1,0 +1,2 @@
+PHYLOGENETIC_TREE_VALID;BESTTREE;INFO;LOG;PARSIMONYTREE;RESULT;BESTSCORE
+TRUE;RAxML_bestTree.v.phylip_raxml_tree1.singleTree;RAxML_info.v.phylip_raxml_tree1.singleTree;RAxML_log.v.phylip_raxml_tree1.singleTree;RAxML_parsimonyTree.v.phylip_raxml_tree1.singleTree;RAxML_result.v.phylip_raxml_tree1.singleTree;-959.948481
