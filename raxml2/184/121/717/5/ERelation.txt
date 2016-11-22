@@ -1,0 +1,2 @@
+PHYLOGENETIC_TREE_VALID;BOOTSTRAP;INFO
+TRUE;RAxML_bootstrap.vi.phylip_tree2.raxml;RAxML_info.vi.phylip_tree2.raxml
