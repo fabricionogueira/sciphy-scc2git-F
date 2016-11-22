@@ -1,0 +1,2 @@
+MG_MODEL;MG_MODEL_VALID;MG
+WAG;True;vi.mg.modelFromMG.txt
