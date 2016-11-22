@@ -1,0 +1,48 @@
+Current working directory /mnt/scc2git/exp/raxml2/186/892/671/0
+raxmlHPC -s i.phylip -n i.phylip_tree2.raxml -c 4 -f d -m PROTGAMMAWAG -b 234534251 -N 4 -p 1
+
+
+You are using RAxML version 7.2.2 released by Alexandros Stamatakis in August 2009
+
+Alignment has 108 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.038043
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 4 non-parametric bootstrap inferences
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 108
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: WAG
+Fixed Base Frequencies:
+
+
+
+
+RAxML was called as follows:
+
+/bin/raxmlHPC -s i.phylip -n i.phylip_tree2.raxml -c 4 -f d -m PROTGAMMAWAG -b 234534251 -N 4 -p 1 
+
+
+Bootstrap[0]: Time 0.251165 bootstrap likelihood -955.962511, best rearrangement setting 1
+Bootstrap[1]: Time 0.265068 bootstrap likelihood -959.993519, best rearrangement setting 1
+Bootstrap[2]: Time 0.421725 bootstrap likelihood -960.484758, best rearrangement setting 1
+Bootstrap[3]: Time 0.324396 bootstrap likelihood -961.547890, best rearrangement setting 1
+
+
+Overall Time for 4 Bootstraps 1.840443
+
+
+Average Time per Bootstrap 0.460111
+All 4 bootstrapped trees written to: /mnt/scc2git/exp/raxml2/186/892/671/0/RAxML_bootstrap.i.phylip_tree2.raxml
